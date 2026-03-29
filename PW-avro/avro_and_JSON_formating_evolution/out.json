@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Great Meeting",
+    "date": 25612345,
+    "time": null,
+    "location": "Berne",
+    "speakers": [
+      "Sam",
+      "Pam",
+      "Tom",
+      "Dom"
+    ],
+    "participants": [
+      "Elton",
+      "John",
+      "Paul",
+      "George",
+      "Ringo"
+    ],
+    "seating": {
+      "Elton": 1,
+      "John": 2,
+      "Paul": 3,
+      "George": 4,
+      "Ringo": 5
+    }
+  },
+  {
+    "name": "Conference 2026",
+    "date": null,
+    "time": 1773754485794,
+    "location": "Lausanne",
+    "speakers": [
+      "Alice",
+      "Bob"
+    ],
+    "participants": [
+      "Marco",
+      "Safia"
+    ],
+    "seating": {
+      "Alice": 1,
+      "Bob": 2,
+      "Marco": 10,
+      "Safia": 11
+    }
+  }
+]
